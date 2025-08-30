@@ -1,8 +1,8 @@
 //first program
 //
 class Hello {
-	public static void main (string []) {
-          system.out.println("welcome! to git")
+	public static void main (string []args ) {
+          system.out.println("welcome! to git");
 	}
 }
 	
