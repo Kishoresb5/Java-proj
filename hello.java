@@ -2,7 +2,7 @@
 //
 class Hello {
 	public static void main (string []) {
-          system.out.println("welcome!')
+          system.out.println("welcome! to git')
 	}
 }
 	
