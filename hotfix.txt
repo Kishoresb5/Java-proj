@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 hot fix created from master branch
+hot fix created from featurebrach
+>>>>>>> feature
