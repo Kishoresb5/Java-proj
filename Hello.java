@@ -3,6 +3,6 @@
 
 class Hello {
         public static void main(String[]args) {
-          System.out.println("Welcome to Jenkin integeration");
+          System.out.println("Welcome to Git and Jenkins integeration");
         }
 }
